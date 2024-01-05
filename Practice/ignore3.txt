@@ -1,0 +1,3 @@
+stash show test
+2nd new line for show test
+
