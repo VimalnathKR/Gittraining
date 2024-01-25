@@ -1,6 +1,9 @@
 stash show test
 2nd new line for show test
 
+<<<<<<< Updated upstream
 
 
 to check the diff
+=======
+>>>>>>> Stashed changes
